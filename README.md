@@ -1,10 +1,16 @@
-# smg061.github.io
+# Code Reformatting Homework
 
 ## This is the homepage for the Horiseon marketing firm, which includes a navigation bar, a header image, and cards with text and images at the bottom of the page.
-### The code for this page was reformatted to consolidate repetitive code that resulted from not using semantic tags in sections like the main article and the aside 
-### sections. Additionally alt attributes have been added to the images in this page to help meet accessibility requirements.
+The code for this page was reformatted to consolidate repetitive code that resulted from not using semantic tags in sections like the main article and the aside 
+sections. Additionally alt attributes have been added to the images in this page to help meet accessibility requirements.
 
 ## Reformatting 
+In the intial instance of the HTML/CSS code, there was repetitive code that had to be written to deal with the formatting of the page. Using semantic tags in HTML, the maintainability and readability of the code was enhanced.
+
+Before reformating 
+
+
+After reformatting 
 
 ## Alt attribute for accessibility
 
