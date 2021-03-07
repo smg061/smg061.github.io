@@ -17,7 +17,7 @@ After reformatting
 ![after](https://raw.githubusercontent.com/smg061/smg061.github.io/main/assets/images/2021-03-06%2019_55_55-style.css%20-%20assets%20-%20Visual%20Studio%20Code.jpg)
 
 ## Alt attribute for accessibility
-To promote accessibility, al attributes were set for the images in the page
+To promote accessibility, alt attributes were set for the images in the page in the HTML code
 
 ![example](https://raw.githubusercontent.com/smg061/smg061.github.io/main/assets/images/2021-03-06%2019_41_28-Horiseon%20Marketing%20Home%20Pa%20%E2%80%94%20Mozilla%20Firefox.jpg "Alt text appears if the image links are broken")
 
