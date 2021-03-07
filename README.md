@@ -9,3 +9,4 @@
 ## Alt attribute for accessibility
 
 ![example](https://raw.githubusercontent.com/smg061/smg061.github.io/main/assets/images/2021-03-06%2019_41_28-Horiseon%20Marketing%20Home%20Pa%20%E2%80%94%20Mozilla%20Firefox.jpg "Alt text appears if the image links are broken")
+ Breaking the image links in the HTML file makes the alt text that was added appear on the page
