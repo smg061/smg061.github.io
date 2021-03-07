@@ -84,6 +84,8 @@ body {
 p {
     font-size: 16px;
 }
+
+
 /*set box and font parameters for the three content boxes*/
 
 article div {
@@ -109,21 +111,12 @@ article img {
 
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
 /*set the floating parameters for the images in the content boxes*/
 
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
 
 .float-right {
     float: right;
@@ -168,6 +161,8 @@ aside img {
     max-width: 150px;
 }
 
+
+/*set the footer box parameters, font, text alignment, and header font-size*/
 .footer {
     padding: 30px;
     clear: both;
