@@ -15,6 +15,6 @@ This page implements attractive animations in response to mouse hovers. This mak
 
 
 ## Final look of the page
-![homepage](https://raw.githubusercontent.com/smg061/smg061.github.io/main/assets/images/2021-03-06%2019_51_44-Horiseon%20Marketing%20Home%20Pa%20%E2%80%94%20Mozilla%20Firefox.jpg)
+![homepage](https://github.com/smg061/smg061.github.io/blob/main/assets/images/2021-03-13%2020_48_22-Santos%20Gonzalez%20Portfolio%20%E2%80%94%20Mozilla%20Firefox.jpg)
 
 
